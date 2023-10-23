@@ -2,7 +2,7 @@
 *Planned Release: 01-12-2023*
 
 # Preview
-<img src="https://github.com/marwin89/performous-avatars-2024-offical/blob/main/Preview/performous-avatars-2024-official-preview.png" alt="Performous Avatars 2024 (offical) preview" title="Performous Avatars 2024 (offical) preview" style="max-width: 100%;"/>
+<img src="https://github.com/marwin89/performous-avatars-2024-offical/blob/main/performous-avatars-2024-official-preview.png" alt="Performous Avatars 2024 (offical) preview" title="Performous Avatars 2024 (offical) preview" style="max-width: 100%;"/>
 
 # Features
 - Choose from over 30 profile pics
