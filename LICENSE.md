@@ -6,7 +6,7 @@
 # Credits
 - Avatar Editor: <a href="https://github.com/marwin89">marwin89</a>
 - Avatar Tooling <a href="https://picsart.com">Picsart</a>
-- Source Photography by: (list all)
+- Source Photography by: <a href="https://www.pexels.com/@artempodrez/">Artem Podrez</a>, <a href="https://www.pexels.com/@rdne/">RDNE Stock Project</a>, <a href="https://www.pexels.com/@william-joseph-gooding-ortiz-3666574/">William-Ortiz</a>, <a href="https://www.pexels.com/@allan-mas/">Allan Mas</a>, <a href="https://www.pexels.com/@a-darmel/">A-Darmel</a>, <a href="https://www.pexels.com/@anilsharma65/">Anil Sharma</a, <a href="https://www.pexels.com/@nickgosset/">Nick Gosset</a>, <a href="https://www.pexels.com/@yankrukov/">Yankrukov</a>, <a href="https://www.pexels.com/@anthonyshkraba-production/">Anthony Shkraba Production</a>, <a href="https://www.pexels.com/@anna-pou/">Anna Pou</a>, <a href="https://www.pexels.com/@mikhail-nilov/">Mikhail Nilov</a>, <a href="https://www.pexels.com/@mojophotography/">Mojo Photography</a>, <a href="https://www.pexels.com/@ubwino-134457761/">Ubwino</a>
 
 # License
 <p>The edited Avatars are licensed under <a href="https://creativecommons.org/share-your-work/cclicenses/">creative commons license (CC-NC-SA)</a>. The source photos are licensed under <a href="https://www.pexels.com/license/">Pexels License</a>.</p>
@@ -15,7 +15,7 @@
 # DMCA
 <p>Since we respect artist and content owner rights, it is our policy to respond to alleged infringement notices that comply with the Digital Millennium Copyright Act of 1998 (“DMCA”). If you find material here that you want to be removed you can contact us. We check sources at pexels.com as good as we can but it can happen that your materials were wrongly uploaded on pexels from another person without your consent. Let us know.</p>
 
-# Source photos:
+# Source photos
 ### Drummer
 - https://www.pexels.com/photo/close-up-shot-of-a-man-playing-drums-6270218/
 - https://www.pexels.com/photo/a-woman-holding-drumsticks-8412413/
@@ -58,17 +58,17 @@
 - https://images.pexels.com/photos/17318829/pexels-photo-17318829/free-photo-of-the-generation-band-one-night-in-camden.jpeg
 
 # ARTISTS
-https://www.pexels.com/@artempodrez/
-https://www.pexels.com/@rdne/
-https://www.pexels.com/@william-joseph-gooding-ortiz-3666574/
-https://www.pexels.com/@allan-mas/
-https://www.pexels.com/@a-darmel/
-https://www.pexels.com/@anilsharma65/
-https://www.pexels.com/@tamillesesposito/
-https://www.pexels.com/@nickgosset/
-https://www.pexels.com/@yankrukov/
-https://www.pexels.com/@anthonyshkraba-production/
-https://www.pexels.com/@anna-pou/
-https://www.pexels.com/@mikhail-nilov/
-https://www.pexels.com/@mojophotography/
-https://www.pexels.com/@ubwino-134457761/
+- <a href="https://www.pexels.com/@artempodrez/">Artem Podrez</a>
+- <a href="https://www.pexels.com/@rdne/">RDNE Stock Project</a>
+- <a href="https://www.pexels.com/@william-joseph-gooding-ortiz-3666574/">William-Ortiz</a>
+- <a href="https://www.pexels.com/@allan-mas/">Allan Mas</a>
+- <a href="https://www.pexels.com/@a-darmel/">A-Darmel</a>
+- <a href="https://www.pexels.com/@anilsharma65/">Anil Sharma</a>
+- <a href="https://www.pexels.com/@tamillesesposito/">Tamilles Esposito</a>
+- <a href="https://www.pexels.com/@nickgosset/">Nick Gosset</a>
+- <a href="https://www.pexels.com/@yankrukov/">Yankrukov</a>
+- <a href="https://www.pexels.com/@anthonyshkraba-production/">Anthony Shkraba Production</a>
+- <a href="https://www.pexels.com/@anna-pou/">Anna Pou</a>
+- <a href="https://www.pexels.com/@mikhail-nilov/">Mikhail Nilov</a>
+- <a href="https://www.pexels.com/@mojophotography/">Mojo Photography</a>
+- <a href="https://www.pexels.com/@ubwino-134457761/">Ubwino</a>
