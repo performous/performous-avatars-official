@@ -3,11 +3,10 @@
 
 <img src="https://github.com/marwin89/performous-avatars-2024-official/blob/main/preview/performous-avatars-2024-official-preview.png" alt="Performous Avatars 2024 (offical) preview" title="Performous Avatars 2024 (offical) preview" style="max-width: 100%;"/>
 
-# Get on the stage!
-- Choose from over 30 profile pics
-- Enjoy cartoonish style
+# Get on stage!
+- Choose from over 30 cartoonish avatars
 - Represent your taste, skill or subculture
-- No Need to use web cam
+- No need to use web cam
 - Updates once a year
 - High-res images, 2:3, transparent
 
