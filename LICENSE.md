@@ -4,9 +4,9 @@
 <p><a href="https://github.com/marwin89">marwin89</a> releases the avatars under <a href="https://creativecommons.org/share-your-work/cclicenses/">creative commons license (CC-NC-SA)</a>.</p>
 
 # Credits
-- Avatar Editor: <a href="https://github.com/marwin89">marwin89</a>
-- Avatar Tooling <a href="https://picsart.com">Picsart</a>
-- Source Photography by: <a href="https://www.pexels.com/@artempodrez/">Artem Podrez</a>, <a href="https://www.pexels.com/@rdne/">RDNE Stock Project</a>, <a href="https://www.pexels.com/@william-joseph-gooding-ortiz-3666574/">William-Ortiz</a>, <a href="https://www.pexels.com/@allan-mas/">Allan Mas</a>, <a href="https://www.pexels.com/@a-darmel/">A-Darmel</a>, <a href="https://www.pexels.com/@anilsharma65/">Anil Sharma</a, <a href="https://www.pexels.com/@nickgosset/">Nick Gosset</a>, <a href="https://www.pexels.com/@yankrukov/">Yankrukov</a>, <a href="https://www.pexels.com/@anthonyshkraba-production/">Anthony Shkraba Production</a>, <a href="https://www.pexels.com/@anna-pou/">Anna Pou</a>, <a href="https://www.pexels.com/@mikhail-nilov/">Mikhail Nilov</a>, <a href="https://www.pexels.com/@mojophotography/">Mojo Photography</a>, <a href="https://www.pexels.com/@ubwino-134457761/">Ubwino</a>
+<p>Avatar Editor: <a href="https://github.com/marwin89">marwin89</a></p>
+<p>Avatar Tooling: <a href="https://picsart.com">Picsart</a></p>
+<p>Source Photography by: <br/><a href="https://www.pexels.com/@artempodrez/">Artem Podrez</a>, <a href="https://www.pexels.com/@rdne/">RDNE Stock Project</a>, <a href="https://www.pexels.com/@william-joseph-gooding-ortiz-3666574/">William-Ortiz</a>, <a href="https://www.pexels.com/@allan-mas/">Allan Mas</a>, <a href="https://www.pexels.com/@a-darmel/">A-Darmel</a>, <a href="https://www.pexels.com/@anilsharma65/">Anil Sharma</a>, <a href="https://www.pexels.com/@nickgosset/">Nick Gosset</a>, <a href="https://www.pexels.com/@yankrukov/">Yankrukov</a>, <a href="https://www.pexels.com/@anthonyshkraba-production/">Anthony Shkraba Production</a>, <a href="https://www.pexels.com/@anna-pou/">Anna Pou</a>, <a href="https://www.pexels.com/@mikhail-nilov/">Mikhail Nilov</a>, <a href="https://www.pexels.com/@mojophotography/">Mojo Photography</a>, <a href="https://www.pexels.com/@ubwino-134457761/">Ubwino</a></p>
 
 # License
 <p>The edited Avatars are licensed under <a href="https://creativecommons.org/share-your-work/cclicenses/">creative commons license (CC-NC-SA)</a>. The source photos are licensed under <a href="https://www.pexels.com/license/">Pexels License</a>.</p>
@@ -56,19 +56,3 @@
 - https://www.pexels.com/photo/dj-at-her-decks-with-headphones-in-left-hand-17391845/
 ### Other
 - https://images.pexels.com/photos/17318829/pexels-photo-17318829/free-photo-of-the-generation-band-one-night-in-camden.jpeg
-
-# ARTISTS
-- <a href="https://www.pexels.com/@artempodrez/">Artem Podrez</a>
-- <a href="https://www.pexels.com/@rdne/">RDNE Stock Project</a>
-- <a href="https://www.pexels.com/@william-joseph-gooding-ortiz-3666574/">William-Ortiz</a>
-- <a href="https://www.pexels.com/@allan-mas/">Allan Mas</a>
-- <a href="https://www.pexels.com/@a-darmel/">A-Darmel</a>
-- <a href="https://www.pexels.com/@anilsharma65/">Anil Sharma</a>
-- <a href="https://www.pexels.com/@tamillesesposito/">Tamilles Esposito</a>
-- <a href="https://www.pexels.com/@nickgosset/">Nick Gosset</a>
-- <a href="https://www.pexels.com/@yankrukov/">Yankrukov</a>
-- <a href="https://www.pexels.com/@anthonyshkraba-production/">Anthony Shkraba Production</a>
-- <a href="https://www.pexels.com/@anna-pou/">Anna Pou</a>
-- <a href="https://www.pexels.com/@mikhail-nilov/">Mikhail Nilov</a>
-- <a href="https://www.pexels.com/@mojophotography/">Mojo Photography</a>
-- <a href="https://www.pexels.com/@ubwino-134457761/">Ubwino</a>
