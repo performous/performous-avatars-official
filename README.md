@@ -5,7 +5,8 @@
 
 # Get on stage!
 - Choose from over 30 cartoonish avatars
-- Represent your taste, skill or subculture
+- Show your taste, skill or subculture
+- cool alternative vibes for your next performous session
 - Updates once a year
 - High-res images, 2:3, transparent
 
@@ -21,10 +22,10 @@
 - Avatar Tooling: <a href="https://picsart.com">Picsart</a>
 
 # License
-- The edited Avatars are licensed under <a href="https://creativecommons.org/share-your-work/cclicenses/">creative commons license (CC-NC-SA).
-- The source photos are licensed under <a href="https://www.pexels.com/license/">Pexels License</a>.
-- The Avatars are primarly made for performous - the open source all-in-one music game.
-- Let marwin89 or the performous team know if you use them outside the open source karaoke game scene.
+<p>The edited Avatars are licensed under <a href="https://creativecommons.org/share-your-work/cclicenses/">creative commons license (CC-NC-SA)</a>.</p>
+<p>The source photos are licensed under <a href="https://www.pexels.com/license/">Pexels License</a>.</p>
+<p>The Avatars are primarly made for performous - the open source all-in-one music game.</p>
+<p></p>Let marwin89 or the performous team know if you use them outside the open source karaoke game scene.</p>
 
 # DMCA
 <p>Since we respect artist and content owner rights, it is our policy to respond to alleged infringement notices that comply with the Digital Millennium Copyright Act of 1998 (“DMCA”). If you find material here that you want to be removed you can contact us. We check sources at pexels.com as good as we can but it can happen that your materials were wrongly uploaded on pexels from another person without your consent. Let us know.</p>
