@@ -1,14 +1,14 @@
 # Performous Avatars 2024 (official) *draft
-### *Release: 01-12-2023*
+### *Release: 1th  Dec 2023*
 
 <img src="https://github.com/marwin89/performous-avatars-2024-official/blob/main/preview/performous-avatars-2024-official-preview.png" alt="Performous Avatars 2024 (offical) preview" title="Performous Avatars 2024 (offical) preview" style="max-width: 100%;"/>
 
 # Become a star!
-- Choose from over 30 cartoonish avatars
-- Show your taste, skill or subculture
-- cool alternative vibes for your next performous session
+- Choose your alter-ego in the performous world
+- Show your skill or subculture
+- Make your next session alternative and cool
+- Discover over 30 Characters in High-res 
 - Updates once a year
-- High-res images, 2:3, transparent
 
 # Copyright, Credits, License and DMCA
 <p>Please check our <a href="https://github.com/marwin89/performous-avatars-2024-official/blob/main/LICENSE.md">License document</a>.
