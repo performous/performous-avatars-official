@@ -1,5 +1,5 @@
 # Copyright
-<p>The Avatars are based on real photographies that are licensed under <a href="https://www.pexels.com/license/">Pexels license</a>. Pexels License means it's free for commercial use and no attribution required. Please check <a href="https://www.pexels.com/license/">Pexels License</a> for more details. All copyright of the source photos belongs to the photographers. Support their work by following them or making donations. All source pictures are linked in copyright-folder.</p>
+<p>The Avatars are based on real photographies that are licensed under <a href="https://www.pexels.com/license/">Pexels license</a>. Pexels License means it's free for commercial use and no attribution required. Please check <a href="https://www.pexels.com/license/">Pexels License</a> for more details. All copyright of the source photos belongs to the photographers. Support their work by following them or making donations. All source pictures are linked down below under "source photos".</p>
 <p>The Avatars are made by marwin89 with Picsart filter effects. <a href="https://picsart.com">Picsart</a> don't claim any copyright for using their editing tools.</p>
 <p><a href="https://github.com/marwin89">marwin89</a> releases the avatars under <a href="https://creativecommons.org/share-your-work/cclicenses/">creative commons license (CC-NC-SA)</a>.</p>
 
