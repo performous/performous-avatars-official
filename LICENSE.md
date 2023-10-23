@@ -55,4 +55,8 @@
 - https://www.pexels.com/photo/man-in-black-leather-jacket-listening-to-the-music-on-headphones-7715515/
 - https://www.pexels.com/photo/dj-at-her-decks-with-headphones-in-left-hand-17391845/
 ### Other
-- https://images.pexels.com/photos/17318829/pexels-photo-17318829/free-photo-of-the-generation-band-one-night-in-camden.jpeg
+- https://www.pexels.com/photo/the-generation-band-one-night-in-camden-17318829/
+- https://www.pexels.com/photo/a-short-hair-woman-looking-back-8941693/
+- https://www.pexels.com/photo/woman-standing-beside-wall-3290890/
+- https://www.pexels.com/photo/close-up-photo-of-stylish-man-in-black-sunglasses-and-cap-9876711/
+- https://www.pexels.com/photo/woman-in-black-leather-jacket-3598252/
