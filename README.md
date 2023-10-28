@@ -1,4 +1,4 @@
-# Performous Avatars 2024 (official) *draft
+# Performous Avatars 2024 (official)
 ### *Release: 1th  Nov 2023*
 
 <img src="https://github.com/marwin89/performous-avatars-2024-official/blob/main/preview/performous-avatars-2024-official-preview.png" alt="Performous Avatars 2024 (offical) preview" title="Performous Avatars 2024 (offical) preview" style="max-width: 100%;"/>
