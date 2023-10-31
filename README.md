@@ -6,7 +6,7 @@
 ## Become a star!
 - Choose your alter-ego and dive into in the performous world
 - Show your skill and subculture
-- Discover over 30 Characters in High-res 
+- Discover over 30 Characters in High-res (2:3)
 - Updates once a year
 
 ## Copyright, Credits, License and DMCA
